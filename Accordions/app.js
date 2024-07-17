@@ -20,3 +20,4 @@ itemHeaders.forEach((accordion) => {
     }
   }
 });
+.
